@@ -1,0 +1,1621 @@
+{
+  "tick": 36,
+  "gameTime": 3.79067874,
+  "gameState": "InGame",
+  "bases": [
+    {
+      "team": "blue",
+      "pos": {
+        "x": 0.0,
+        "y": 10.22,
+        "z": -150.0
+      },
+      "points": 0.0
+    },
+    {
+      "team": "red",
+      "pos": {
+        "x": 0.0,
+        "y": 12.07,
+        "z": 150.0
+      },
+      "points": 0.0
+    }
+  ],
+  "agents": [
+    {
+      "agentId": "-3183138",
+      "team": "red",
+      "pos": {
+        "x": -17.6353436,
+        "y": 12.5137539,
+        "z": 134.60994
+      },
+      "weight": 0.0,
+      "currentSpeed": 0.0,
+      "isStunned": false,
+      "hasTreasure": false,
+      "heldTreasureId": null,
+      "stealAbilityReady": false,
+      "stealChargePercentage": 0.0,
+      "destination": null
+    },
+    {
+      "agentId": "-3184822",
+      "team": "red",
+      "pos": {
+        "x": 10.1586323,
+        "y": 12.5227318,
+        "z": 137.897964
+      },
+      "weight": 0.0,
+      "currentSpeed": 0.0,
+      "isStunned": false,
+      "hasTreasure": false,
+      "heldTreasureId": null,
+      "stealAbilityReady": false,
+      "stealChargePercentage": 0.0,
+      "destination": null
+    },
+    {
+      "agentId": "-3186500",
+      "team": "red",
+      "pos": {
+        "x": 13.8056612,
+        "y": 12.5578842,
+        "z": 137.787659
+      },
+      "weight": 0.0,
+      "currentSpeed": 0.0,
+      "isStunned": false,
+      "hasTreasure": true,
+      "heldTreasureId": null,
+      "stealAbilityReady": false,
+      "stealChargePercentage": 0.0,
+      "destination": null
+    },
+    {
+      "agentId": "-3188178",
+      "team": "red",
+      "pos": {
+        "x": 5.834197,
+        "y": 12.0427494,
+        "z": 143.254532
+      },
+      "weight": 0.0,
+      "currentSpeed": 0.0,
+      "isStunned": false,
+      "hasTreasure": false,
+      "heldTreasureId": null,
+      "stealAbilityReady": false,
+      "stealChargePercentage": 0.0,
+      "destination": null
+    },
+    {
+      "agentId": "-3189856",
+      "team": "red",
+      "pos": {
+        "x": 8.960907,
+        "y": 12.2699652,
+        "z": 141.466461
+      },
+      "weight": 0.0,
+      "currentSpeed": 0.0,
+      "isStunned": false,
+      "hasTreasure": false,
+      "heldTreasureId": null,
+      "stealAbilityReady": false,
+      "stealChargePercentage": 0.0,
+      "destination": null
+    },
+    {
+      "agentId": "-3191534",
+      "team": "blue",
+      "pos": {
+        "x": -8.134902,
+        "y": 8.933835,
+        "z": -142.850616
+      },
+      "weight": 0.0,
+      "currentSpeed": 0.0,
+      "isStunned": false,
+      "hasTreasure": false,
+      "heldTreasureId": null,
+      "stealAbilityReady": false,
+      "stealChargePercentage": 0.0,
+      "destination": null
+    },
+    {
+      "agentId": "-3193216",
+      "team": "blue",
+      "pos": {
+        "x": -11.377099,
+        "y": 8.712306,
+        "z": -141.087219
+      },
+      "weight": 0.0,
+      "currentSpeed": 0.0,
+      "isStunned": false,
+      "hasTreasure": false,
+      "heldTreasureId": null,
+      "stealAbilityReady": false,
+      "stealChargePercentage": 0.0,
+      "destination": null
+    },
+    {
+      "agentId": "-3194898",
+      "team": "blue",
+      "pos": {
+        "x": -13.7005672,
+        "y": 8.568819,
+        "z": -137.037582
+      },
+      "weight": 0.0,
+      "currentSpeed": 0.0,
+      "isStunned": false,
+      "hasTreasure": true,
+      "heldTreasureId": null,
+      "stealAbilityReady": false,
+      "stealChargePercentage": 0.0,
+      "destination": null
+    },
+    {
+      "agentId": "-3196580",
+      "team": "blue",
+      "pos": {
+        "x": 16.7738361,
+        "y": 11.6942024,
+        "z": -165.939987
+      },
+      "weight": 0.0,
+      "currentSpeed": 0.0,
+      "isStunned": false,
+      "hasTreasure": false,
+      "heldTreasureId": null,
+      "stealAbilityReady": false,
+      "stealChargePercentage": 0.0,
+      "destination": null
+    },
+    {
+      "agentId": "-3198262",
+      "team": "blue",
+      "pos": {
+        "x": -10.0642509,
+        "y": 10.129674,
+        "z": -171.407761
+      },
+      "weight": 0.0,
+      "currentSpeed": 0.0,
+      "isStunned": false,
+      "hasTreasure": false,
+      "heldTreasureId": null,
+      "stealAbilityReady": false,
+      "stealChargePercentage": 0.0,
+      "destination": null
+    }
+  ],
+  "golems": [
+    {
+      "id": "-3202026",
+      "pos": {
+        "x": -142.584778,
+        "y": 10.3966026,
+        "z": -116.983459
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3202292",
+      "pos": {
+        "x": -60.5770874,
+        "y": 7.338565,
+        "z": -127.03051
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3202558",
+      "pos": {
+        "x": 0.4995575,
+        "y": 7.010067,
+        "z": -88.6618042
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3202824",
+      "pos": {
+        "x": 57.21228,
+        "y": 8.692524,
+        "z": -114.007828
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3203090",
+      "pos": {
+        "x": 143.693237,
+        "y": 7.00021,
+        "z": -126.428337
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3203356",
+      "pos": {
+        "x": -136.351151,
+        "y": 8.70668,
+        "z": -58.2741547
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3203622",
+      "pos": {
+        "x": -66.4216461,
+        "y": 7.55973434,
+        "z": -27.8001251
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3203888",
+      "pos": {
+        "x": 1.76130676,
+        "y": 7.192152,
+        "z": -65.23062
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3204154",
+      "pos": {
+        "x": 79.68106,
+        "y": 10.4024477,
+        "z": -55.9703369
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3204420",
+      "pos": {
+        "x": 148.211182,
+        "y": 8.5249,
+        "z": -47.9749756
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3204686",
+      "pos": {
+        "x": -146.468887,
+        "y": 15.625885,
+        "z": 30.2406
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3204952",
+      "pos": {
+        "x": -71.34766,
+        "y": 9.300075,
+        "z": 55.3241272
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3205218",
+      "pos": {
+        "x": -13.5208435,
+        "y": 10.81949,
+        "z": 28.0870972
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3205484",
+      "pos": {
+        "x": 63.71353,
+        "y": 12.8243446,
+        "z": 60.1620178
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3205750",
+      "pos": {
+        "x": 139.748566,
+        "y": 14.89847,
+        "z": 61.98413
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3206016",
+      "pos": {
+        "x": -126.740654,
+        "y": 9.047436,
+        "z": 133.115051
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3206282",
+      "pos": {
+        "x": -66.701416,
+        "y": 9.516791,
+        "z": 140.959473
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3206548",
+      "pos": {
+        "x": 11.73349,
+        "y": 11.9839668,
+        "z": 112.587982
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3206814",
+      "pos": {
+        "x": 59.73593,
+        "y": 12.0641212,
+        "z": 128.959808
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    },
+    {
+      "id": "-3207080",
+      "pos": {
+        "x": 129.85556,
+        "y": 10.8382111,
+        "z": 142.730347
+      },
+      "currentSpeed": 2.0,
+      "state": "Patrol",
+      "targetAgentId": null
+    }
+  ],
+  "treasures": [
+    {
+      "id": "-3199868",
+      "pos": {
+        "x": -175.7333,
+        "y": 8.261527,
+        "z": -167.347122
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3199886",
+      "pos": {
+        "x": -132.350021,
+        "y": 9.936393,
+        "z": -184.014847
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3199904",
+      "pos": {
+        "x": -84.10797,
+        "y": 9.919146,
+        "z": -174.485626
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3199936",
+      "pos": {
+        "x": -45.1875763,
+        "y": 8.401402,
+        "z": -175.57869
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3199954",
+      "pos": {
+        "x": -11.4495239,
+        "y": 10.1110611,
+        "z": -174.057678
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3199972",
+      "pos": {
+        "x": 18.7313843,
+        "y": 11.8139782,
+        "z": -167.440277
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200004",
+      "pos": {
+        "x": 70.44934,
+        "y": 13.0394955,
+        "z": -192.639923
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200022",
+      "pos": {
+        "x": 102.191681,
+        "y": 9.363131,
+        "z": -170.281616
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200040",
+      "pos": {
+        "x": 125.192505,
+        "y": 8.863925,
+        "z": -188.207413
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200072",
+      "pos": {
+        "x": 187.67749,
+        "y": 7.43557835,
+        "z": -190.305374
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200090",
+      "pos": {
+        "x": -182.327621,
+        "y": 9.176023,
+        "z": -147.7708
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200108",
+      "pos": {
+        "x": -151.248245,
+        "y": 11.8692894,
+        "z": -144.34996
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200140",
+      "pos": {
+        "x": -90.65228,
+        "y": 9.078216,
+        "z": -143.461334
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200158",
+      "pos": {
+        "x": -71.96585,
+        "y": 8.404863,
+        "z": -154.390259
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200176",
+      "pos": {
+        "x": -13.5268106,
+        "y": 8.921392,
+        "z": -138.280731
+      },
+      "isPicked": true,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200208",
+      "pos": {
+        "x": 30.7325439,
+        "y": 9.773381,
+        "z": -130.13826
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200226",
+      "pos": {
+        "x": 70.21179,
+        "y": 9.170928,
+        "z": -139.15892
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200244",
+      "pos": {
+        "x": 105.482727,
+        "y": 7.18903637,
+        "z": -127.651825
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200276",
+      "pos": {
+        "x": 135.041382,
+        "y": 7.110791,
+        "z": -154.622986
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200294",
+      "pos": {
+        "x": 168.089417,
+        "y": 6.357666,
+        "z": -139.222061
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200312",
+      "pos": {
+        "x": -166.046692,
+        "y": 9.97855,
+        "z": -89.0067139
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200344",
+      "pos": {
+        "x": -144.779419,
+        "y": 9.962854,
+        "z": -110.42511
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200362",
+      "pos": {
+        "x": -115.455566,
+        "y": 7.80073929,
+        "z": -92.14012
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200380",
+      "pos": {
+        "x": -72.90709,
+        "y": 7.38767433,
+        "z": -97.2370148
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200412",
+      "pos": {
+        "x": -10.909729,
+        "y": 6.96989536,
+        "z": -100.669907
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200430",
+      "pos": {
+        "x": 14.7549438,
+        "y": 7.687995,
+        "z": -104.204254
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200448",
+      "pos": {
+        "x": 65.09125,
+        "y": 8.139515,
+        "z": -113.177521
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200480",
+      "pos": {
+        "x": 103.207031,
+        "y": 7.125267,
+        "z": -108.05249
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200498",
+      "pos": {
+        "x": 144.158356,
+        "y": 8.050437,
+        "z": -85.5982361
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200516",
+      "pos": {
+        "x": 179.851135,
+        "y": 9.487879,
+        "z": -86.17308
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200548",
+      "pos": {
+        "x": -169.23703,
+        "y": 9.988097,
+        "z": -74.22348
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200566",
+      "pos": {
+        "x": -152.489288,
+        "y": 9.002927,
+        "z": -75.80647
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200584",
+      "pos": {
+        "x": -103.127441,
+        "y": 7.27799225,
+        "z": -68.9942
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200616",
+      "pos": {
+        "x": -55.995163,
+        "y": 7.526045,
+        "z": -72.5645752
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200634",
+      "pos": {
+        "x": -12.01265,
+        "y": 6.90730953,
+        "z": -62.1053467
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200652",
+      "pos": {
+        "x": 23.8695679,
+        "y": 7.287467,
+        "z": -70.7375
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200684",
+      "pos": {
+        "x": 53.60321,
+        "y": 9.384272,
+        "z": -55.5993347
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200702",
+      "pos": {
+        "x": 108.76828,
+        "y": 9.4354105,
+        "z": -55.8522034
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200720",
+      "pos": {
+        "x": 135.627075,
+        "y": 8.78414249,
+        "z": -60.585556
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200752",
+      "pos": {
+        "x": 175.413086,
+        "y": 8.583474,
+        "z": -54.1727142
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200770",
+      "pos": {
+        "x": -189.5686,
+        "y": 9.395485,
+        "z": -19.4759827
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200788",
+      "pos": {
+        "x": -133.064255,
+        "y": 11.4374866,
+        "z": -12.4339294
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200820",
+      "pos": {
+        "x": -87.54567,
+        "y": 8.874878,
+        "z": -13.5583191
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200838",
+      "pos": {
+        "x": -53.370636,
+        "y": 7.41617966,
+        "z": -10.184433
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200856",
+      "pos": {
+        "x": -33.49115,
+        "y": 7.295002,
+        "z": -30.5532227
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200888",
+      "pos": {
+        "x": 4.03604126,
+        "y": 9.897056,
+        "z": -5.13034058
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200906",
+      "pos": {
+        "x": 59.105957,
+        "y": 13.2048645,
+        "z": -6.53947449
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200924",
+      "pos": {
+        "x": 99.1494141,
+        "y": 10.888,
+        "z": -35.8335876
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200956",
+      "pos": {
+        "x": 139.950012,
+        "y": 9.276231,
+        "z": -31.0325928
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200974",
+      "pos": {
+        "x": 166.929352,
+        "y": 8.883818,
+        "z": -11.274292
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3200992",
+      "pos": {
+        "x": -168.631134,
+        "y": 12.7425308,
+        "z": 14.1643677
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201024",
+      "pos": {
+        "x": -148.421524,
+        "y": 13.5854321,
+        "z": 8.077332
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201042",
+      "pos": {
+        "x": -113.491119,
+        "y": 12.7360439,
+        "z": 25.8099365
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201060",
+      "pos": {
+        "x": -61.67218,
+        "y": 8.401164,
+        "z": 15.5422668
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201092",
+      "pos": {
+        "x": -18.6643982,
+        "y": 9.356864,
+        "z": 16.3251343
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201110",
+      "pos": {
+        "x": 13.0091858,
+        "y": 10.4815159,
+        "z": 33.9836426
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201128",
+      "pos": {
+        "x": 51.94568,
+        "y": 13.8127823,
+        "z": 11.9959717
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201160",
+      "pos": {
+        "x": 104.217316,
+        "y": 13.6692047,
+        "z": 11.8522034
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201178",
+      "pos": {
+        "x": 137.570862,
+        "y": 11.9095936,
+        "z": 20.3717957
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201196",
+      "pos": {
+        "x": 192.714172,
+        "y": 10.5515165,
+        "z": 4.999298
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201228",
+      "pos": {
+        "x": -191.815033,
+        "y": 14.82456,
+        "z": 67.04779
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201246",
+      "pos": {
+        "x": -131.729523,
+        "y": 12.0303345,
+        "z": 71.1022
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201264",
+      "pos": {
+        "x": -112.243362,
+        "y": 10.9480171,
+        "z": 65.24426
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201296",
+      "pos": {
+        "x": -53.61844,
+        "y": 9.590079,
+        "z": 55.2497559
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201314",
+      "pos": {
+        "x": -25.7913513,
+        "y": 11.5157719,
+        "z": 59.9856567
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201332",
+      "pos": {
+        "x": 28.1506653,
+        "y": 10.7096882,
+        "z": 48.8522644
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201350",
+      "pos": {
+        "x": 48.64737,
+        "y": 11.8622608,
+        "z": 56.2733154
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201382",
+      "pos": {
+        "x": 102.247559,
+        "y": 13.94866,
+        "z": 73.97885
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201400",
+      "pos": {
+        "x": 138.272461,
+        "y": 15.7716789,
+        "z": 75.66388
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201418",
+      "pos": {
+        "x": 166.719666,
+        "y": 14.178215,
+        "z": 73.5999146
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201436",
+      "pos": {
+        "x": -170.63472,
+        "y": 12.8022022,
+        "z": 98.6482544
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201468",
+      "pos": {
+        "x": -133.2678,
+        "y": 10.5296507,
+        "z": 101.633362
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201486",
+      "pos": {
+        "x": -92.386,
+        "y": 9.167516,
+        "z": 87.512146
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201504",
+      "pos": {
+        "x": -48.3716736,
+        "y": 10.394372,
+        "z": 94.07562
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201522",
+      "pos": {
+        "x": -22.79277,
+        "y": 12.6581631,
+        "z": 115.493256
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201554",
+      "pos": {
+        "x": 25.3613586,
+        "y": 11.2057343,
+        "z": 98.62793
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201572",
+      "pos": {
+        "x": 63.1316833,
+        "y": 12.0413895,
+        "z": 92.02008
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201590",
+      "pos": {
+        "x": 91.23712,
+        "y": 12.0249786,
+        "z": 110.56012
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201608",
+      "pos": {
+        "x": 136.007538,
+        "y": 13.9673176,
+        "z": 100.123077
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201640",
+      "pos": {
+        "x": 194.405762,
+        "y": 11.5383759,
+        "z": 99.17819
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201658",
+      "pos": {
+        "x": -171.766449,
+        "y": 9.349673,
+        "z": 153.522461
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201676",
+      "pos": {
+        "x": -144.234955,
+        "y": 8.662051,
+        "z": 145.813049
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201694",
+      "pos": {
+        "x": -103.737915,
+        "y": 8.49083,
+        "z": 145.365845
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201712",
+      "pos": {
+        "x": -69.96414,
+        "y": 9.111754,
+        "z": 143.7331
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201730",
+      "pos": {
+        "x": -20.062912,
+        "y": 12.6094208,
+        "z": 132.133423
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201748",
+      "pos": {
+        "x": 12.8571281,
+        "y": 12.8838558,
+        "z": 138.427216
+      },
+      "isPicked": true,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201766",
+      "pos": {
+        "x": 66.82324,
+        "y": 11.635231,
+        "z": 130.120026
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201784",
+      "pos": {
+        "x": 101.523682,
+        "y": 10.03012,
+        "z": 144.190979
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201802",
+      "pos": {
+        "x": 137.212158,
+        "y": 11.730257,
+        "z": 131.1568
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201820",
+      "pos": {
+        "x": 167.044128,
+        "y": 10.2010345,
+        "z": 149.127258
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201838",
+      "pos": {
+        "x": -192.6713,
+        "y": 9.874356,
+        "z": 183.691345
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201856",
+      "pos": {
+        "x": -135.1112,
+        "y": 8.825491,
+        "z": 190.278809
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201874",
+      "pos": {
+        "x": -93.74379,
+        "y": 7.023347,
+        "z": 193.3223
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201892",
+      "pos": {
+        "x": -70.70665,
+        "y": 6.402896,
+        "z": 195.774048
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201910",
+      "pos": {
+        "x": -31.9417877,
+        "y": 9.536196,
+        "z": 181.2182
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201928",
+      "pos": {
+        "x": 11.5936584,
+        "y": 7.31169033,
+        "z": 189.818512
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201946",
+      "pos": {
+        "x": 51.8182068,
+        "y": 8.944368,
+        "z": 178.1607
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201964",
+      "pos": {
+        "x": 115.0517,
+        "y": 9.669171,
+        "z": 166.522156
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3201982",
+      "pos": {
+        "x": 143.22,
+        "y": 11.2817917,
+        "z": 181.518311
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    },
+    {
+      "id": "-3202000",
+      "pos": {
+        "x": 178.3736,
+        "y": 9.431459,
+        "z": 179.526062
+      },
+      "isPicked": false,
+      "holderAgentId": null,
+      "value": 0,
+      "weight": 0.0
+    }
+  ]
+}
