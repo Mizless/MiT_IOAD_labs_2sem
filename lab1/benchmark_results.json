@@ -1,0 +1,50 @@
+{
+  "default_repeats": 1000,
+  "recursive_repeats": {
+    "8": 1000,
+    "10": 1000,
+    "16": 1000,
+    "20": 50
+  },
+  "dimensions": [
+    8,
+    10,
+    16,
+    20
+  ],
+  "results": {
+    "8": {
+      "brute_force": 0.001076891899749171,
+      "recursive": 0.001716391899099108,
+      "multi_agents": 0.001497750900045503,
+      "repeats_brute_force": 1000,
+      "repeats_recursive": 1000,
+      "repeats_multi_agents": 1000
+    },
+    "10": {
+      "brute_force": 0.004042378799815197,
+      "recursive": 0.003836737399746198,
+      "multi_agents": 0.0031762253002962097,
+      "repeats_brute_force": 1000,
+      "repeats_recursive": 1000,
+      "repeats_multi_agents": 1000
+    },
+    "16": {
+      "brute_force": 0.025691151301318313,
+      "recursive": 0.29272775100020226,
+      "multi_agents": 0.004402105200162623,
+      "repeats_brute_force": 1000,
+      "repeats_recursive": 1000,
+      "repeats_multi_agents": 1000
+    },
+    "20": {
+      "brute_force": 0.0485722381004598,
+      "recursive": 6.646165061999345,
+      "multi_agents": 0.005938711201306433,
+      "repeats_brute_force": 1000,
+      "repeats_recursive": 50,
+      "repeats_multi_agents": 1000
+    }
+  },
+  "elapsed_seconds": 725.48
+}
