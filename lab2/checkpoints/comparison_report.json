@@ -1,0 +1,45 @@
+{
+  "opponent": "random",
+  "rl_as_white": {
+    "rl_wins": 4675,
+    "opponent_wins": 325,
+    "minimax_wins": 325,
+    "draws": 0,
+    "rl_avg_time": 0.0013099652093960575,
+    "opponent_avg_time": 7.38715482988845e-05,
+    "minimax_avg_time": 7.38715482988845e-05,
+    "games": 5000,
+    "opponent": "random",
+    "opponent_label": "Random",
+    "minimax_depth": null,
+    "rl_color": "White",
+    "rl_win_rate": 0.935,
+    "speed_ratio": 0.056391992526993916
+  },
+  "rl_as_black": {
+    "rl_wins": 4603,
+    "opponent_wins": 397,
+    "minimax_wins": 397,
+    "draws": 0,
+    "rl_avg_time": 0.0012807514383178075,
+    "opponent_avg_time": 7.423046268094816e-05,
+    "minimax_avg_time": 7.423046268094816e-05,
+    "games": 5000,
+    "opponent": "random",
+    "opponent_label": "Random",
+    "minimax_depth": null,
+    "rl_color": "Black",
+    "rl_win_rate": 0.9206,
+    "speed_ratio": 0.05795852376979998
+  },
+  "summary": {
+    "total_rl_wins": 9278,
+    "total_opponent_wins": 722,
+    "total_minimax_wins": 722,
+    "total_draws": 0,
+    "avg_rl_move_sec": 0.0012953583238569325,
+    "avg_opponent_move_sec": 7.405100548991633e-05,
+    "avg_minimax_move_sec": 7.405100548991633e-05
+  },
+  "key_rl_feature": "Self-play + PPO: политика улучшается из опыта партий; Random не обучается."
+}

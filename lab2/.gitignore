@@ -1,4 +1,7 @@
 ﻿generate_report.py
 __pycache__/
 *.pyc
-checkpoints/
+checkpoints/*
+!checkpoints/best.pth
+!checkpoints/comparison_report.json
+!checkpoints/latest.txt
